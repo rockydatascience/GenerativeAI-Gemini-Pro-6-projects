@@ -17,8 +17,8 @@ This repository contains six projects showcasing the use of Gemini AI. Each proj
    - **Key Features:** Multilanguage support, accurate data extraction, easy integration with existing systems.
 
 3. **Project 3: PDF with GenAI**
-   - **Description:** A tool to enhance PDF documents using generative AI. This project demonstrates how to integrate generative models to create, modify, and annotate PDF files.
-   - **Key Features:** PDF generation, text and image embedding, automated annotations.
+   - **Description:** A tool to enhance PDF documents using generative AI. This project based on pdfs Were we can get a Overview of PDF.
+   - **Key Features:** PDF analysis, text and image embedding, automated annotations.
 
 4. **Project 4: Vision AI**
    - **Description:** A computer vision application using Gemini AI to analyze and interpret images. This project covers various image processing tasks like object detection, image classification, and more.
