@@ -25,7 +25,7 @@ This repository contains six projects showcasing the use of Gemini AI. Each proj
    - **Key Features:** Object detection, image classification, visual data analysis.
 
 5. **Project 5: Health AI**
-   - **Description:** A health monitoring and analysis tool powered by Gemini AI. It focuses on processing health data to provide insights and predictions for better health management.
-   - **Key Features:** Health data analysis, predictive modeling, personalized health insights.
+   - **Description:** A Calories monitoring and analysis tool powered by Gemini AI. It focuses on processing Calories in Food.
+   - **Key Features:** Health data analysis, predictive modeling, personalized Food Calorie insights.
 
 
