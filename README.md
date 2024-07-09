@@ -4,7 +4,7 @@ This repository contains six projects showcasing the use of Gemini AI. Each proj
 
 ## Projects Overview
 
-1. **Project 1: Chatbot (app.py)**
+1. **Project 1: Chatbot.py and app.py**
    - **Description:** `app.py` contains the code for a conversational AI chatbot built using Gemini AI. This chatbot is designed to interact with users in natural language, providing context-aware and accurate responses based on the trained models.
    - **Key Features:**
      - Natural language understanding
@@ -28,7 +28,4 @@ This repository contains six projects showcasing the use of Gemini AI. Each proj
    - **Description:** A health monitoring and analysis tool powered by Gemini AI. It focuses on processing health data to provide insights and predictions for better health management.
    - **Key Features:** Health data analysis, predictive modeling, personalized health insights.
 
-6. **Project 6: FAISS Indexing**
-   - **Description:** A project utilizing Facebook AI Similarity Search (FAISS) with Gemini AI for efficient similarity search and clustering. This project is ideal for applications requiring fast and accurate similarity searches.
-   - **Key Features:** Efficient similarity search, clustering, scalable indexing.
 
